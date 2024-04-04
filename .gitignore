@@ -1,0 +1,39 @@
+# Compiled Object files
+*.suo
+*.obj
+*.dll
+*.pdb
+
+# Compiled Dynamic libraries
+*.lib
+*.dylib
+
+# Executables
+*.exe
+*.out
+
+# Build and Debug directories
+Debug/
+Release/
+
+# Visual Studio files
+.vs/
+.vscode/
+*.sln
+*.vcxproj
+*.vcxproj.user
+*.vcxproj.filters
+*.pdb
+*.obj
+*.idb
+
+# User-specific files
+*.suo
+*.user
+
+# IntelliSense PCH files
+*.ipch
+
+# Debug files
+*.lastbuildstate
+*.log
